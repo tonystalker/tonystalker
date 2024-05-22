@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 💬 Ask me about **React ,Solidity and Golang**
+- 💬 Ask me about **Solidity and Golang**
 
 - 📫 How to reach me **707ayushtripathi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iayushtripathi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonystalkerr" height="30" width="40" /></a>
+<a href="https://twitter.com/tonystalkerr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tonystalkerr" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ayush-tripathi-4a062b1b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ayush-tripathi-4a062b1b4" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Tony_stalker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://twitter.com/iayushtripathi_" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
