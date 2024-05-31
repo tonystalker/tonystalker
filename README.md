@@ -1,5 +1,3 @@
-[![MasterHead](https://ssir.org/images/jcogs_img/cache/Srivastava-Smith-Web3-For-Good-592x333_-_28de80_-_32cdb717960a27496637fd676f9678580fbfafd0.jpg)
-
 <h1 align="center">Hi 👋, I'm Ayush Tripathi / Tony Stalker</h1>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdvbW5ydGhtc2p5anFpaGd5aHBycjJmc3Z0a3A4aXE0emxsdTBxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4hLQiaIs2RJBujzW/giphy.webp">
 
