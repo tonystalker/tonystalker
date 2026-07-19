@@ -118,7 +118,7 @@ def build_svg() -> str:
 
 def main():
     out = "info-card.svg"
-    Path(out).write_text(build_svg())
+    Path(out).write_text(build_svg(), encoding="utf-8")
     print(f"wrote {out} ({'static' if static else 'animated'})")
 
 if __name__ == "__main__":
