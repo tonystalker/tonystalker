@@ -40,9 +40,10 @@ ITEMS = [
     {"type": "row", "key": "Now", "val": get_latest_repo()},
     {"type": "row", "key": "Edu", "val": "IIT (BHU) Varanasi '26"},
     {"type": "header", "text": "— Stack"},
-    {"type": "row", "key": "AI / ML", "val": "LangGraph, LangChain, LLMs"},
-    {"type": "row", "key": "Backend", "val": "FastAPI, Qdrant, Python"},
-    {"type": "row", "key": "Cloud", "val": "GCP, Docker"},
+    {"type": "row", "key": "Frontend", "val": "React, Next.js, TypeScript, R3F"},
+    {"type": "row", "key": "Backend", "val": "Node, NestJS, GraphQL, Django"},
+    {"type": "row", "key": "AI / ML", "val": "LangChain, Vercel AI SDK, OpenAI"},
+    {"type": "row", "key": "Cloud", "val": "AWS, Docker, Vercel, Prisma"},
     {"type": "header", "text": "— Seeking"},
     {"type": "row", "key": "Roles", "val": "SDE / AI-GenAI at early-stage startups"},
 ]
