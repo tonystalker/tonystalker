@@ -15,16 +15,30 @@ Writes:
     info-card.svg
 """
 import os
+import requests
 from pathlib import Path
 
-TITLE = "tony@github"
+TITLE = "ayush@github"
+
+def get_latest_repo():
+    try:
+        r = requests.get("https://api.github.com/users/tonystalker/repos?sort=updated&per_page=1")
+        if r.status_code == 200 and r.json():
+            repo = r.json()[0]
+            name = repo.get("name", "")
+            desc = repo.get("description") or "Working on new features"
+            text = f"{name} — {desc}"
+            if len(text) > 55:
+                text = text[:52] + "..."
+            return text
+    except Exception:
+        pass
+    return "Building FlowDesk — agentic customer support platform"
 
 ITEMS = [
-    {"type": "header", "text": "tony@github"},
-    {"type": "row", "key": "Now", "val": "Building FlowDesk — agentic customer support platform"},
-    {"type": "row", "key": "Prev", "val": "VoiceFlow AI — local always-on voice assistant"},
-    {"type": "row", "key": "Edu", "val": "IIT (BHU) Varanasi — Ceramic Eng. '26"},
-    {"type": "row", "key": "Rank", "val": "LeetCode Knight · Codeforces Specialist"},
+    {"type": "header", "text": "ayush@github"},
+    {"type": "row", "key": "Now", "val": get_latest_repo()},
+    {"type": "row", "key": "Edu", "val": "IIT (BHU) Varanasi '26"},
     {"type": "header", "text": "— Stack"},
     {"type": "row", "key": "AI / ML", "val": "LangGraph, LangChain, LLMs"},
     {"type": "row", "key": "Backend", "val": "FastAPI, Qdrant, Python"},
