@@ -1,42 +1,7 @@
 {
   "username": "tonystalker",
-  "fetched_at": "2026-07-25T08:26:10.468946+00:00",
+  "fetched_at": "2026-07-26T08:40:58.735748+00:00",
   "days": [
-    {
-      "date": "2025-07-20",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-21",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-22",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-23",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-24",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-25",
-      "level": 0,
-      "count": 0
-    },
-    {
-      "date": "2025-07-26",
-      "level": 0,
-      "count": 0
-    },
     {
       "date": "2025-07-27",
       "level": 0,
@@ -1854,13 +1819,18 @@
     },
     {
       "date": "2026-07-25",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-07-26",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total_last_year": 162,
-    "current_streak": 6,
+    "total_last_year": 163,
+    "current_streak": 7,
     "longest_streak": 8,
     "best_day": {
       "date": "2025-12-04",
@@ -1880,7 +1850,7 @@
       "2026-04": 1,
       "2026-05": 2,
       "2026-06": 16,
-      "2026-07": 71
+      "2026-07": 72
     }
   }
 }
