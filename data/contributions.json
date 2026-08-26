@@ -1,6 +1,6 @@
 {
   "username": "tonystalker",
-  "fetched_at": "2026-08-25T07:10:31.094257+00:00",
+  "fetched_at": "2026-08-26T07:10:52.514707+00:00",
   "days": [
     {
       "date": "2025-08-24",
@@ -1834,14 +1834,19 @@
     },
     {
       "date": "2026-08-25",
+      "level": 1,
+      "count": 1
+    },
+    {
+      "date": "2026-08-26",
       "level": 0,
       "count": 0
     }
   ],
   "stats": {
-    "total_last_year": 200,
-    "current_streak": 37,
-    "longest_streak": 37,
+    "total_last_year": 201,
+    "current_streak": 38,
+    "longest_streak": 38,
     "best_day": {
       "date": "2025-12-04",
       "level": 4,
@@ -1860,7 +1865,7 @@
       "2026-05": 2,
       "2026-06": 16,
       "2026-07": 83,
-      "2026-08": 26
+      "2026-08": 27
     }
   }
 }
