@@ -1,6 +1,5 @@
 requests==2.32.3
-beautifulsoup4==4.12.3
-# portrait-only (not needed by the daily workflow):
+# portrait generation:
 pillow
 numpy
 opencv-python

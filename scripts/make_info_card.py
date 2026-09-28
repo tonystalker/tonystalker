@@ -2,9 +2,8 @@
 make_info_card.py
 
 Hand-authored SVG that looks like the output of `neofetch`: a title
-bar, then colored key/value rows. This card carries the story numbers
-can't tell (role, current focus, stack, highlights) — the contribution
-heatmap already covers raw GitHub stats, so there's no overlap.
+bar, then colored key/value rows. This card carries role, current focus,
+stack, and highlights.
 
 Each line fades + slides in on a short stagger. Set STATIC=1 to emit a
 frozen frame (all lines already visible) for local previews.
